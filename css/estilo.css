@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+header {
+  width: 100%;
+  background-color: rgb(39, 220, 252);
+}
+
+header section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 1024px;
+}
+
+.logo {
+  width: 100px;
+  height: 70px;
+}
+
+.logo a img {
+  width: 100%;
+  height: 100%;
+}
+
+.links-topo {
+  margin-left: 15px;
+  padding: 10px;
+}
+
+.links-topo a {
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  margin: 15px;
+  padding: 10px;
+}
+
+.links-topo a:hover {
+  color: blue;
+}
+
+main .primeiraSecao {
+  background-image: url(../assets/recepcao.png);
+  height: 500px;
+  background-size: cover;
+}
+
+main .primeiraSecao div {
+  margin: 0 auto;
+  width: 1024px;
+  height: 100px;
+  position: relative;
+  top: 45%;
+  color: white;
+}
