@@ -11,7 +11,7 @@ body {
 
 header {
   width: 100%;
-  background-color: rgb(58, 187, 180);
+  background-color: rgb(70, 188, 192);
 }
 
 .limit-section {
@@ -30,7 +30,7 @@ header {
 
 .logo {
   width: 100px;
-  height: 70px;
+  height: 60px;
   padding: 5px;
 }
 
@@ -109,3 +109,115 @@ header {
 
 /*Estilos da segunda Seção termina aqui*/
 /*Estilos da terceira Seção começa aqui*/
+
+.third-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.third-section .text-third-section-sobre {
+  text-align: center;
+  max-width: 600px;
+  margin-top: 60px;
+}
+
+.third-section .container-cards {
+  display: flex;
+  gap: 30px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin: 25px 0;
+}
+
+.third-section .container-cards .card-box {
+  width: calc(100% / 3);
+  box-shadow: 0px 0px 5px 3px rgb(175, 175, 175);
+}
+
+.third-section .container-cards .card-box img {
+  width: 100%;
+}
+
+.third-section .container-cards .card-box figcaption {
+  text-align: center;
+  line-height: 40px;
+}
+
+.container-link-horarios {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px 0;
+}
+
+.container-link-horarios a {
+  color: white;
+  text-decoration: none;
+  background-color: rgb(70, 188, 192);
+  padding: 13px;
+  border-radius: 3px;
+}
+
+/*Estilos da terceira Seção termina aqui*/
+/*Estilos da quarta Seção começa aqui*/
+
+.fourth-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fourth-section .text-fourth-section-contato {
+  text-align: center;
+  max-width: 600px;
+  margin-top: 40px;
+}
+
+.fourth-section .text-fourth-section-contato p {
+  margin-top: 15px;
+}
+
+.fourth-section .text-fourth-section-contato p span {
+  font-weight: bold;
+}
+
+.container-iframe {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.container-iframe iframe {
+  width: 100%;
+}
+
+/*Estilos da quarta Seção termina aqui*/
+/*Estilos do Rodapé começa aqui*/
+
+footer {
+  width: 100%;
+  background-color: rgb(3, 126, 109);
+}
+
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  padding: 20px 0;
+  margin-top: 70px;
+}
+
+.footer-section .text-footer {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.footer-section .text-footer p {
+  margin-top: 10px;
+}
