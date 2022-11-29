@@ -30,14 +30,24 @@ Esse projeto é um site de uma clínica médica. Ele possui duas páginas.
   
   <h3>Especialidades</h3>
   
+  ![CMLife-Especialidades-Print](https://user-images.githubusercontent.com/109807189/204554330-cf79d93f-1b6f-4ea7-a544-ed8794f05d3a.png)
+  
 </div>
+
+---
 
 Esse site é responsivo, isso significa que ele se adapta com o tamanho da tela do usuário.
 
+Página sendo exibida em um celular (resolução até 425px).
+
 <div>
-  Home
+  <h3>Layout mobile (resolução até 425px)</h3>
   
-  Especialidades
+  ![CMLife-Home-Response](https://user-images.githubusercontent.com/109807189/204559087-8bd685f4-beb1-4f8a-989d-fe653c2f2454.png)
+   ![CMLife-Especialidades-Response](https://user-images.githubusercontent.com/109807189/204554554-7e1236f6-15aa-44fd-9321-30521b7e48b2.png)
   
 </div>
+
+---
+
 Este site também será utilizado como teste para aplicação do github pages
