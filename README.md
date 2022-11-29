@@ -48,7 +48,7 @@ Página sendo exibida em um celular (resolução até 425px).
   
 </div>
 
-##Autor
+## Autor
 
 Jhonatan da Silva Oliveira
 
