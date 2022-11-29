@@ -24,9 +24,11 @@ Esse projeto é um site de uma clínica médica. Ele possui duas páginas.
 </ul>
 
 <div>
-  Home
+  <h3>Home</h3>
   
-  Especialidades
+  ![CMLife-Home-Print](https://user-images.githubusercontent.com/109807189/204552743-3a807758-ebda-4c2b-9c64-3fc980777457.png)
+  
+  <h3>Especialidades</h3>
   
 </div>
 
