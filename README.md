@@ -48,6 +48,12 @@ Página sendo exibida em um celular (resolução até 425px).
   
 </div>
 
+##Autor
+
+Jhonatan da Silva Oliveira
+
+https://www.linkedin.com/in/jhonatan-silva-oliveira/
+
 ---
 
-Este site também será utilizado como teste para aplicação do github pages
+Este site também será utilizado como teste e aprendizado para aplicação do github pages
