@@ -8,7 +8,7 @@ Carreira Programador Front-end » 6ª Missão » Construa um site responsivo par
 
 ## Objetivo
 
-A proposta desse projeto é criar uma página web responsiva utilizando as tecnologias HTML e CSS.
+A proposta desse projeto foi criar uma página web responsiva utilizando as tecnologias HTML e CSS.
 
 Dessa forma colocando em prática os seguintes conceitos:
 <ul>
