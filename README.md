@@ -1,5 +1,7 @@
 # Projeto de Web Site: Clinica-Medica
 
+https://jhonatan-silva-oliveira.github.io/Clinica-Medica/
+
 Esse projeto foi criado e desenvolvido junto ao curso [DevMedia](https://www.devmedia.com.br/cursos/)
 
 Carreira Programador Front-end » 6ª Missão » Construa um site responsivo para uma clínica
@@ -56,4 +58,4 @@ https://www.linkedin.com/in/jhonatan-silva-oliveira/
 
 ---
 
-Este site também será utilizado como teste e aprendizado para aplicação do github pages
+Este site também será utilizado como teste e aprendizado para aplicação/hospedagem no github pages
