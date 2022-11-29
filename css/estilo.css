@@ -93,6 +93,10 @@ header {
   padding: 10px;
 }
 
+.second-section .text-second-section-sobre h2 {
+  margin-bottom: 10px;
+}
+
 .second-section .list-second-section {
   margin-top: 20px;
   display: flex;
@@ -128,6 +132,10 @@ header {
   max-width: 600px;
   margin-top: 30px;
   padding: 10px;
+}
+
+.third-section .text-third-section-sobre h2 {
+  margin-bottom: 10px;
 }
 
 .third-section .container-cards {
@@ -297,7 +305,7 @@ footer {
 
 @media screen and (max-width: 425px) {
   .first-section {
-    height: 200px;
+    height: 250px;
   }
   
   .first-section .text-first-section-title h1 {
